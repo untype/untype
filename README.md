@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @untype
-- 👀 I’m interested in Data Modelling & Visualization with Power Bi & Tableau
-- 🌱 I’m currently learning how to build my own keyboard
+- 👀 I’m interested in Data Modelling, SQL, & Visualization with Power Bi & Tableau
+- 🌱 I'm typing with Colemak DH & learning how to build my own keyboard
 - 💞️ I’m looking to collaborate on fun projects useful to the world
 - 📫 How to reach me: @untype
 

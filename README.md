@@ -80,53 +80,6 @@ class Untype:
 
 ---
 
-### 🎯 **AREAS OF EXPERTISE**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🧠 Intelligence Analysis
-- Data mining & pattern recognition
-- Threat modeling & risk assessment
-- OSINT & information gathering
-- Strategic analysis & reporting
-
-</td>
-<td width="50%">
-
-#### 🐍 Python Engineering
-- Automation & scripting
-- Data processing pipelines
-- API development & integration
-- Testing & optimization
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🤖 Agent Development
-- Multi-agent orchestration
-- LLM fine-tuning & prompting
-- RAG implementation
-- Tool integration & workflows
-
-</td>
-<td width="50%">
-
-#### 📊 Data Visualization
-- Interactive dashboards
-- Business intelligence
-- Statistical analysis
-- Insight communication
-
-</td>
-</tr>
-</table>
-
----
-
 ### 💡 **CURRENT INTERESTS**
 
 ```ascii

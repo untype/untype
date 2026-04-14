@@ -136,8 +136,3 @@ Throughout Data Visualisation & Automation
 
 ---
 
-<div align="center">
-
-*Senior Intelligence Analyst → Senior AI Analyst*
-
-</div>

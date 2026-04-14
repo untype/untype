@@ -21,9 +21,9 @@ Building agents, automations, and data systems that do genuinely useful things
 
 ## About
 
-I came up as a **Senior Intelligence Analyst** — trained to find signal in noise, structure ambiguous problems, and turn complex information into clear decisions under pressure. That same operating mode now drives my work in AI.
+I came up as a **Senior Intelligence Analyst** - trained to find signal in noise, structure ambiguous problems, and turn complex information into clear decisions under pressure. That same operating mode now drives my work in AI.
 
-As a **Senior AI Analyst** I design, evaluate, and build agentic systems, automation pipelines, and data infrastructure. I also **pilot emerging technologies** before they're mainstream — running real assessments, POC builds, and adoption frameworks that move organisations from curiosity to capability. In my own time I prototype and experiment, building agents for the sheer interest of it.
+As a **Senior AI Analyst** I design, evaluate, and build agentic systems, automation pipelines, and data infrastructure. I also **pilot emerging technologies** before they're mainstream - running real assessments, POC builds, and adoption frameworks that move organisations from curiosity to capability. In my own time I prototype and experiment, building agents for the sheer interest of it.
 
 ---
 
@@ -52,12 +52,12 @@ Throughout Data Visualisation & Automation
 
 | Area | Description |
 |------|-------------|
-| 🤖 **Agentic Systems** | Multi-agent orchestration, memory, tool use, and human-in-the-loop design — POC through to production assessment |
-| 🔬 **Technology Piloting** | Structured pilots and POC evaluations of new AI tools — building the evidence base for real adoption decisions |
+| 🤖 **Agentic Systems** | Multi-agent orchestration, memory, tool use, and human-in-the-loop design - POC through to production assessment |
+| 🔬 **Technology Piloting** | Structured pilots and POC evaluations of new AI tools - building the evidence base for real adoption decisions |
 | 🌐 **Web Intelligence** | Agent-driven web scraping, structured extraction, and monitoring frameworks at scale |
 | ⚡ **Workflow Automation** | Connecting AI to enterprise systems via n8n, Power Automate, and MCP-based tool pipelines |
-| 🏗️ **Data Engineering** | Databricks, PySpark, dbt — turning raw data into clean, queryable assets that feed intelligent systems |
-| 📊 **Data Visualisation** | End-to-end Power BI reporting pipelines — making data legible for people who need to act on it |
+| 🏗️ **Data Engineering** | Databricks, PySpark, learning dbt - turning raw data into clean, queryable assets that feed intelligent systems |
+| 📊 **Data Visualisation** | End-to-end Power BI reporting pipelines - making data legible for people who need to act on it |
 
 ---
 
@@ -119,14 +119,14 @@ Throughout Data Visualisation & Automation
 
 | Tool / Protocol | Why It Matters |
 |-----------------|----------------|
-| 🔵 **LangGraph** | Stateful, graph-based multi-agent orchestration — the standard for complex branching workflows in 2026 |
-| 🩵 **A2A Protocol** | Google's agent-to-agent communication standard — cross-platform interoperability for agent fleets |
-| 🟣 **Browser Use** | Agent-native browser automation — 78k GitHub stars, rapidly replacing Playwright for agentic web tasks |
-| 🔵 **Mem0 / Agent Memory** | Persistent memory layers — episodic, semantic, and procedural memory that makes agents useful over time |
-| 🩵 **Crawl4AI** | LLM-optimised web crawling — clean markdown output purpose-built for feeding language models |
-| 🟣 **Composio** | Open-source tool integration layer — auth-managed connectors for plugging agents into real enterprise apps |
-| 🟢 **AutoGen v0.4** | Microsoft's redesigned multi-agent framework — async, event-driven, built for production |
-| 🟠 **Agent Observability** | LangSmith, LangFuse, Arize — tracing, evaluation and monitoring for agents running at scale |
+| 🔵 **LangGraph** | Stateful, graph-based multi-agent orchestration - the standard for complex branching workflows in 2026 |
+| 🩵 **A2A Protocol** | Google's agent-to-agent communication standard - cross-platform interoperability for agent fleets |
+| 🟣 **Browser Use** | Agent-native browser automation - 78k GitHub stars, rapidly replacing Playwright for agentic web tasks |
+| 🔵 **Mem0 / Agent Memory** | Persistent memory layers - episodic, semantic, and procedural memory that makes agents useful over time |
+| 🩵 **Crawl4AI** | LLM-optimised web crawling - clean markdown output purpose-built for feeding language models |
+| 🟣 **Composio** | Open-source tool integration layer - auth-managed connectors for plugging agents into real enterprise apps |
+| 🟢 **AutoGen v0.4** | Microsoft's redesigned multi-agent framework - async, event-driven, built for production |
+| 🟠 **Agent Observability** | LangSmith, LangFuse, Arize - tracing, evaluation and monitoring for agents running at scale |
 
 ---
 
